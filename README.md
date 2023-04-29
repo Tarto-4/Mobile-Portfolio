@@ -29,7 +29,7 @@
 - [📝 License](#license)
 
 
-# 📖 Mobile-Portfolio world <a name="about-project"></a>
+# 📖 Mobile-Portfolio <a name="about-project"></a>
 
 **Mobile-Portfolio** is a simple project. It is the first project created as part of Microverse curriculum.
 
