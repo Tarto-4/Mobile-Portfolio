@@ -151,7 +151,7 @@ body {
 .post-stories {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   gap: 2.4rem;
 }
 
@@ -289,7 +289,7 @@ body {
 }
 
 .about-section {
-  display: grid;
+  display: flex;
   grid-template-columns: 1fr;
   background-color: #1c1a19;
 }
