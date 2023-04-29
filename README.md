@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://github.com/account" alt="logo" width="140"  height="auto" />
+  <img src="https://avatars.githubusercontent.com/u/109634276?v=4" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
