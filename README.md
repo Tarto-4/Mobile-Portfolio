@@ -98,8 +98,6 @@ commands:
 
 Install this project with:
 
-Install this project with:
-
 Linters:
 
 Lighthouse run:
