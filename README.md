@@ -46,7 +46,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -57,7 +56,30 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 -An IDE of your choice (recommended: VS code)
--Browser
+
+Google Chrome or other browser
+
+```sh
+  https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjw9J2iBhBPEiwAErwpeSDcMFWiIQWj2u5GY6owZ7OaOHw7dYYCHW7uTR4kvYosNJYd4wt4VxoCiywQAvD_BwE&gclsrc=aw.ds
+```
+
+Github Account:
+
+```sh
+  https://github.com/
+```
+
+Npm installed:
+
+```sh
+  https://nodejs.org/en/download
+```
+
+Git installed:
+
+```sh
+  https://git-scm.com/downloads/
+```
 
 ### Setup
 
@@ -72,25 +94,51 @@ git clone https://github.com/Tarto-4/Mobile-Portfolio.git
 
 Install this project with:
 
-Open the index.html file
+Linters:
+
+Lighthouse run:
+
+```sh
+  npm install -g @lhci/cli@0.7.x
+```
+
+Webhint run
+
+```sh
+ npm install --save-dev hint@7.x
+```
+
+StyleLint run:
+
+```sh
+ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+```
 
 ### Usage
 
 To run the project, execute the following command:
 
-open index.html in your brower
+```sh
+  cd linters-setup
+  index.html
+```
 
 ### Run tests
 
 To run tests, run the following command:
 
--View by opening a liver server in your IDE
+Example command:
+
+```sh
+  npx stylelint "**/*.{css,scss}"
+  npx hint .
+```
 
 ### Deployment
 
 You can deploy this project using:
 
-N/A
+Your working browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +182,6 @@ I would like to thank myself and the Microverse community
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
