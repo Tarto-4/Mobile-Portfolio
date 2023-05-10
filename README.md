@@ -28,7 +28,6 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-
 # 📖 Mobile-Portfolio <a name="about-project"></a>
 
 **Mobile-Portfolio** is a simple project. It is the first project created as part of Microverse curriculum.
@@ -37,8 +36,8 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
->CSS and
->HTML
+> HTML5
+> CSS3
 
 ### Key Features <a name="key-features"></a>
 
@@ -49,7 +48,6 @@
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
@@ -89,9 +87,8 @@ Clone this repository to your desired folder:
 
 commands:
 
-  cd [your folder]
-  git clone https://github.com/Tarto-4/Mobile-Portfolio.git
-  
+cd [your folder]
+git clone https://github.com/Tarto-4/Mobile-Portfolio.git
 
 ### Install
 
@@ -145,30 +142,25 @@ Your working browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Author1**
+
 - Thato Mongwe
 
 - GitHub: [@githubhandle](https://github.com/Tarto-4)
 - Twitter: [@twitterhandle](https://twitter.com/THATOMongwe4)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/thato-mongwe-08a84a23a/)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 - [ ] **[Tabs]**
 - [ ] **[contacts_link]**
 - [ ] **[buttons]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -178,16 +170,13 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project leave a star ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 
 I would like to thank myself and the Microverse community
 
@@ -197,7 +186,5 @@ I would like to thank myself and the Microverse community
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
